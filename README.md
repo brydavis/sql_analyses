@@ -1,1 +1,3 @@
-# sql_analyses
+# SQL Analyses
+
+Examples of data analyses all in pure SQL.
